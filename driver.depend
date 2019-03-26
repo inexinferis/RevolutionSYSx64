@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1500342257 source:d:\codeblocks\examples\iapp\revolution\driverx64\driver.c
+	"driver.h"
+	<wingdi.h>
+
+1483219083 d:\codeblocks\examples\iapp\revolution\driverx64\driver.h
+	<ddk/ntddk.h>
+	<ddk/ntapi.h>
+	<ddk/ntifs.h>
+	"pstypes.h"
+	<wingdi.h>
+
+1439011393 d:\codeblocks\examples\iapp\revolution\driverx64\pstypes.h
+	<ldrtypes.h>
+	<mmtypes.h>
+	<obtypes.h>
+	<extypes.h>
+	<setypes.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1553639491 source:d:\codeblocks\examples\revolutionsysx64\driver.c
+	"driver.h"
+	<wingdi.h>
+
+1553637898 d:\codeblocks\examples\revolutionsysx64\driver.h
+	<ddk/ntddk.h>
+	<ddk/ntapi.h>
+	<ddk/ntifs.h>
+	"pstypes.h"
+	<wingdi.h>
+
+1553639820 d:\codeblocks\examples\revolutionsysx64\pstypes.h
+	<pshpack1.h>
+	<poppack.h>
+

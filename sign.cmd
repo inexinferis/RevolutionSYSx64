@@ -1,0 +1,1 @@
+signtool sign /f certificate.pfx /p username /d "Driver Name" /v inexinferisx64.sys
